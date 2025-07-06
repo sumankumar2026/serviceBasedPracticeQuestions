@@ -1,4 +1,5 @@
 #include<iostream>
+
 using namespace std;
 int main(){
     int arr[] = {1,2,56,3,21,5,2,15,32};
